@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeeva7691
-- 👀 I’m interested in ... Full-Stack-Developing
-- 🌱 I’m currently learning ... Angular-js
-- 💞️ I’m looking to collaborate on ...Web_Development
+- 👀 I’m interested in ... Full-Stack-Developer
+- 🌱 I’m currently learning ... Angular-js ... Typescript
+- 💞️ I’m looking to collaborate on ...Web_Development ...Web_Apps
 - 📫 How to reach me ... Message ME
 
 <!---
